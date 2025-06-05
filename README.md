@@ -5,7 +5,7 @@ This project helps users build positive habits and stay consistent by tracking t
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Add, edit, and delete habits  
 - 📅 Track completion status over time
@@ -15,7 +15,7 @@ This project helps users build positive habits and stay consistent by tracking t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React**  
 - **Redux Toolkit**  
@@ -25,7 +25,7 @@ This project helps users build positive habits and stay consistent by tracking t
 
 ---
 
-## 🧪 Getting Started
+##  Getting Started
 
 Clone the repo and run the app locally:
 
